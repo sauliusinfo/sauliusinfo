@@ -7,7 +7,10 @@
 - 🔭 [Friday-2](https://github.com/sauliusinfo/43-grupe-friday2)
 
 ✨ JavaScript ✨
-- 🌱 I’m currently learning ... JavaScriptIntro
+- 🌱 I’m currently learning ...
+  - [JavaScript-Intro](https://github.com/sauliusinfo/43-grupe-intro-js)
+
+
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
