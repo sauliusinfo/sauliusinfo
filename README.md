@@ -9,4 +9,5 @@
 ✨ Finished ✨
 - 🚀 [laraFDB](https://github.com/sauliusinfo/laraFDB)
 
-- 📫 Contact me on [linkedin](https://linkedin.com/in/saulius-jazdauskas-1aab30270)
+✨ Contact me ✨
+- 📫 [linkedin](https://linkedin.com/in/saulius-jazdauskas-1aab30270)
